@@ -4,9 +4,9 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 
-name: Zach Holman
-url: http://zachholman.com
+name: Doug Burman 
+url: http://pourfac.es
 description: A fantastic blog that is fantastic.
-twitter: holman
-github: holman
-gravatar_url: http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c
+twitter: therapod 
+github: dburman 
+gravatar_url: http://gravatar.com/avatar/601c895402e2655fc3fd00d225e18457
